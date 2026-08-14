@@ -23,7 +23,7 @@
     "command-line-usage": "^4.1.0",
     "debug": "^3.2.6",
     "mqtt": "^2.18.8",
-    "node-coap-client": "^0.6.0"
+    "node-coap-client": "^3.0.0"
   },
   "devDependencies": {
     "@types/node": "8.0.22",
